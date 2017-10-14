@@ -1,11 +1,8 @@
-$red: #ff0000;
+@import 'typography.scss';
+
+$blue: blue;
 
 body {
-  // background: $red;
-}
-
-p {
-  display: flex;
-  font-size: responsive;
+  background: $blue;
 }
 
